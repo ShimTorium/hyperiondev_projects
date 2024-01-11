@@ -1,0 +1,48 @@
+1. How does the waterfall methodology differ from agile?
+   Answer: The waterfall model allows for a more linear approach to a project. It divides its process into phases such as
+           defining the necessary requirements for the project, designing a system, implementation, intergaration and operation.
+           This method is more rigid and phases must be completed before moving onto the next being very one-dimensional.
+           With agile it has a more iterative incramental approach that can adapt to changes quickly with ease. The project is
+           divided into smaller sections making it easier to plan, design, implement and test. This make it more flexible for for 
+           change.
+
+           Once a phase is completed with the watefall model it is diffcult to go back and introduce changes it be expensive and 
+           time consuming. While with agile it is designed to not be one dimensional and allows to changes easily. In the waterfall method 
+           the client very limited to the involvement. They are only involved at the initial part and at completion when the product is
+           implemented. While with agile, user/client interaction is crucial. User feedback is regularly required to implement necessary
+           changes throughout the project. With agile individuals and interactions is prefered to over processes and tools, working 
+           software over documentation, customer collaboration over contract negotiations and responding to necessary change over following
+           a linear plan.
+
+2. Reread “Agile Manifesto”. Can you think of a situation in which one or more of the four “values” could get a software team into trouble?
+   Answers: It is important for teams using agile to maintain a balance in using the agile approach when building the project.
+            If there is no adaptability in the agile approach there could be some downfall in using the agile approach.
+     
+            If one takes the four values into consideration there could be some disadvantage if these methods are followed without 
+            flexabilty. If the focus of the project is on individuals and skills it may lead to a lack of documentation or a void if
+            one person working on the project was to leave. There could be a issue where a lack of documentation hinders the project if
+            the project focuses to much on working software. Customer collaboration over contract negotiations could also have negative 
+            consequenses on the project if the the project team want sto keep clients happy by doing extra work, resulting in delayed 
+            completion or budget constraints. Responding to change over following a plan can also hinder the teams progress, budget 
+            and project deadlines.
+
+3. Describe the agile method in your own words.
+   Answers: The agile method can be described as a flexiable, iterative step to develope software. It focuses on interaction, collaboration
+            and adaptability. It divides projects up into smaller task to accelerate development to the clients specifications and satisfaction.
+
+4. Why do you think requirements change so much?
+   Answers: When the project progresses, the client gains greater perspective of the project through collaboration and thus then understands their
+            project better, thus then allowing for progressive change to occur where necessary. External factors needs to be considered such as the
+            ever changing technology industry, markets and competition. People working on the product could also change and, thus bringing different
+            perspectives. The agile approach helps teams deal with the ever changing and evolving needs or the client and the project as whole. Through
+            iterative steps in this agile method, regular communication with the client contributes to positive changes in the system.
+
+
+
+5. Explain why first testing project features helps the programmer to develop a better understanding of the system requirements.
+   Answers: This is a vital part of the initial stages, because it gives crucial understanding of system requirments by giving
+            immediate feedback. Developers can then avail this data to the client and collaborate on correcting issue or progressing
+            to next stages of development. It reduces unexpected cost at the end part of development by fixing problems through the
+            incremental staged by being flexible and adaptable. By testing from the initial stages create a quality control mindset.
+            Through this it creates a culture of always sticking to the clients specification requirements. Regular testing also contributes
+            to a continous working software.

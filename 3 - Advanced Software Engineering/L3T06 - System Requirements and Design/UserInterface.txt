@@ -1,0 +1,22 @@
+1. Do you think the website has a good UI? Refer to the information provided in the task and discuss both good and bad elements
+   in the website’s UI.
+   Answers: The websites layout isn't good. It isn't cohesive and in a ordely layout. The design is very outdated and doesnt feel
+            like a legit website to purchase items from. The websites navigation has no order and guide and seems like it was randomly
+            designed with no proper organised menus.
+            The websites colour contrast on the home screen can also affect the readibilty of the menu options. 
+            There is no logical order to the website layout.
+            The website responsiveness could be improved, there is a delay when clicking on menus and waiting for it to load.
+            There is no menu that allows a user to register a online account or to reserve or check the avialablity of a item.
+
+2. Do you think the website has a good UI? Discuss both the good and bad elements in the website’s UI.
+   Answers: This UCOOK website has a very good layout. it has a professional feel to it and seems like they know what they doing as a business and 
+            that gives the user a feeling of trust. The navigation menu is cohesive in a ordely fashion and thus makes the website easy to navigate.
+            The webiste is very appealing but the font on certain menus could be enlarged slightly for better viewing.
+            When navigating the website it is very responsive and low latency wating on the page to load, the user can quickly and effortlessly navigate
+            order on a reliable system.
+            All the input controls are effective such as the dropdown menu, checkboxes etc.
+            All the navigational components are aslo effective and makes the search fields, icons and images help make the user
+            experience user friendly.
+            All the informational components wroks with ample data, images being conveyed to the user.
+            
+            	

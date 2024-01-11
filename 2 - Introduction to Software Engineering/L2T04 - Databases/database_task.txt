@@ -1,0 +1,63 @@
+1. Define each of the following terms:
+a) Data
+b) Field
+c) Record
+d) File
+
+Answers
+a. Data can be described as the raw facts in its most basic digital format such as 
+   colours, names, numbers and so fourth that has not been organised in a logical 
+   manner.
+
+b. Can be described as a single character or a group of characters that have a specic
+   meaning or can be devided into several parts. It is used to define and store data.
+
+c. A record describes a set of one or more fields that is related to one another with
+   the same structure that can describe something.
+
+d. Can be described as a group of records stored in a orgnised, structured format.
+
+2. What is a DBMS and what are its advantages?
+
+Answers
+a. When the database is managed and access is controlled the DBMS it makes it easier 
+   to share data with a possible end user who could have a more efficient way of access
+   to the data managed by the DBMS.
+
+b. When the DMBS managed to data intergration to a variety of end users, it then provides
+   a better perspective of the intergrated view of how the organisation operates to a
+   end user.
+
+c. Minimises data inconsistencies when different versions of the same data appear in different
+   places. When the database is correctly designed then it reduces data inconsistencies.
+
+d. Improves data access when a query is logged to check or update data that is sent to the DBMS.
+   the DBMS makes it possible for quick responses when queries comes in.
+
+e. Improves decision making when the DBMS is well managed data and its access.
+
+f. Increases end user productivity when data is easily available, the end user can make quicker 
+   informed decions.
+
+3. Explain the difference between data and information.
+
+Answers
+a. Data is raw facts that has not been processed and has not yet revealed the datas meaning.
+   Information is the processing of of raw data to create meaning of the data by organising it.
+
+4. What is metadata?
+
+Answers
+a. Metadata refers to data about data. It gives data context and describes it. It organises
+   data and helps bring understanding about the data. Metadata is the value that leads us 
+   to the actual data.
+
+5. Given the file below, answer the following questions:
+   e) How many records does the file contain?
+   f) How many fields are there per record?
+
+Answers
+e. The project manager file contains 4 records.
+
+f. For each of the records there 5 fields namely: PROJECT_CODE, PROJECT_MANAGER, MANAGER_PHONE,
+   MANAGER_ADDRESS, PROJECT_BID_PRICE.   

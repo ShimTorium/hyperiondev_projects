@@ -1,0 +1,20 @@
+2.1 Suggest the most appropriate generic software process model that might be used as a basis for managing the development of the following 
+systems.Explain your answer according to the type of system being developed:
+
+**A system to control antilock braking in a car: for this system, the book describes the waterfall development process.  These are best for
+embedded systems and also critical systems. The idea of an antilock breaking system for a car can be considered as a critical system because
+testing for this system is a huge part of finalizing the "product" / system. The waterfall system is also very rigid which can be
+also hindering while building this system. Overall, a waterfall model seems most appropriate.
+-------------------------------------------------------------------------------------------------------------------------------------------
+**A virtual reality system to support software maintenance: Incremental; virtual reality is still a new piece of software. This means, that 
+there is most likely going to be many different changes. By breaking the project into smaller pieces, by presenting to the customers, they 
+are able to receive feedback, which will allow them to build, or take away certain features.
+-------------------------------------------------------------------------------------------------------------------------------------------
+**A university accounting system that replaces an existing system: Integration and Configuration. By using the integration and configuration
+process, we could also assume that the new system will take reusable components from the older system and integrate them into the new system
+,but with better, or improved features.
+-------------------------------------------------------------------------------------------------------------------------------------------
+**An interactive travel planning system that helps users plan journeys with the lowest environmental impact: Incremental. This system is 
+dependent on the user's interaction and imput. This means that there will be heavy testing done throughout the process to ensure that 
+the system will perform as the user seeks fit. This system allows the user testing early in the prcess to ensure that the best product 
+is being made. This also needs to be flexible with change in perspective to the user's feedback.

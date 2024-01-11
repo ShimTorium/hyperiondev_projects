@@ -1,0 +1,56 @@
+Scenario 1
+An algorithm that asks a user to enter a positive number repeatedly
+until the user enters a zero value, then determines and outputs the
+largest of the numbers that were input
+
+Algorithm 1
+Request user to enter positive number repeatedly.
+if until the user enter a zero value.
+print the largest of values that user inputed.
+
+Scenario 2
+An algorithm that requests a user to input their name and then
+stores their name in a variable called first_name. Subsequently, the
+algorithm should print out first_name along with the phrase “Hello,
+World”.
+
+Algorithm 2
+Request user to input name.
+Store the name in variable called first_name.
+print first_name and the phrase "Hello, world".
+
+Scenario 3
+An algorithm that reads an arbitrary number of integers and then
+returns their arithmetic average.
+
+Algorithm 3
+input  arbitrary integers.
+add up integers to get the total value.
+divide the total value of integers by the total number of integers
+to get the arithmetic average.
+print arithmetic average.
+
+Scenario 4
+An algorithm that reads a grocery list and prints out the products
+(in alphabetical order) that are still left to buy (you can decide what
+these are).
+
+Algorithm 4
+Request grocery list from user.
+store list in variable called grocery_list.
+mark what was bought on the grocery_list.
+print what still needs to be bought.
+
+Scenario 5
+An algorithm for the flowchart below:
+
+Algorithm 5
+input value for X.
+input value for Y.
+total value of X and Y = S variable
+the value of S variable / 2 = A variable
+X value * Y value = P varible
+print S,A,P.
+
+
+

@@ -1,0 +1,32 @@
+1. Discuss any ambiguities or omissions in the statement of requirements for this part of a ticket-issuing system.
+   Answers: User input can be considered because the system says the user should input a personal I.D number, what 
+            if the user wanted to purchase several ticket for more than one person, will the sytem give them that
+            option or will they have to re-enter details individually. They only make mention of a start button option
+            and no other menu is provided at that time to the user, it doesnt state if the system will be used on a
+            machine or a online system.
+            How will the system respond if something invalid is entered, is there options and measures inplace to cancel
+            or backtrack.
+            Once the order has been validated, the user is asked to enter a personal identifier, so some type of user pin,
+            what would be the requirements for the pin, e.g length, special character etc. What is tickets are purchased for 
+            several people.
+            What will happen if theres a issue with the system while the user is interacting with the system, e.g the system
+            crashes, loadshedding, system malfunction or delayded response. Will the users details or point of interaction
+            be saved if the user wishes to try at a later stage when the system is back online.
+           
+
+2. Write a set of non-functional requirements for the ticket-issuing system above. You are free to make assumptions regarding
+   the system based on ambiguities or omissions you identified previously.
+   Answers: The systems user input should be user friendly and take the all aspects of user scenarios into account such as 
+            the user entering individual I.D's if several tickets needs to be purchased. The user should have that option to
+            select the amount of tickets.
+            A interactive menu must be presented to the user and not only a start button, for ease of access such as language
+            option or someone who is impaired visually or audibly.
+            The system needs to be responsive and have a option to cancel or go back and change a option if the user wants to.
+            If the user interacts with the system it should handle errors well.
+            The system needs to run optimally and perform well without crashing and have a minimal latency when the user needs 
+            the system to be very responsive when inputing data.
+            When the user enters credit card details the data needs to be very secure and the user needs to be protected from
+            threats. 
+            
+
+

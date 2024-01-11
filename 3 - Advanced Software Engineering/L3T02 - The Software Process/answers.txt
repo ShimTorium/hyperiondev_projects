@@ -1,0 +1,61 @@
+1a. A system to control anti-lock braking in a car.
+    Answer: Waterfall Model.
+            This would be a critical saftey feature on a car with this sytem and planning would be vital.
+            Therefore for the waterfall model would be approriate. 
+            The requirement for analysis and definition would be the first stage taking into consideration engine size and power,
+            weaight distribution and wheel size etc. This would give some guidance on the given data on the planning of the breaking system.
+            The systems software design helps the development of the hardware and the software functionality for the breaking system.
+            Implementation and unit testing will be next once the systems software design is established and sets of units. This will verify that 
+            when each unit is tested that it meets the system specification.
+            Integration and system testing is done when all the systems units are integrated and then tested as a whole system. To ensure all the saftey
+            and operational requirements are met.
+            The operation and maintenance is the phase where the sytem is installed and put into practical use. The system will be checked again for errors
+            and will be corrected.
+
+1b. A virtual reality system to support software maintenance.
+    Answer: Incremental Development Model.
+            Developing the software for a VR system using the incramental method would be cheaper. The software and technology will change all the time,
+            therefore a series of versions will come out and with eavh version new feature will be added or taken away with each version.
+            It is easier to get feedback from the client on what that has been done on the system through the incramented stages.
+
+1c.A university accounting system that replaces an existing system.
+   Answer: Reuse-Oriented Software Engineering Model.
+           This model will be appropriate because there is an existing system with data already in place and when the new accounting system is introduced
+           the existing data can be reused to save time.
+           Specification requirement will be needed to define the system.
+           Component Analysis will look at the research and what previous components could be used and what new ones will be added when modifications is need.
+           System design and reuse will be next to design a framework for new ones or existing ones, new ones can be created if none of the previous components 
+           are appropriate for what is implemented.
+           The development and integration of the new software is then integrated into the new system and then the system could be validated.
+
+1d. An interactive travel planning system that helps users plan trips with the lowest environmental impact.
+    Answer: Incramental Development Model.
+            This system will be based on user input interaction and will will need to be tested throughly at every stage, therefore user feed back early on will be vital.
+            The specification, developmental and validation process needs to happen at the same time to create a functional system with the lowest enviromental impact.
+            It would be easy to alter and make changes when a user gives feed back on certain units.
+            New features can be added to the system in future to better the software and user interaction or removed out-dated features, to create a good 
+            interactive travel planning system.
+
+2. Why do you think incremental development is the most effective approach for developing business software systems?
+   Answers: This model allows a business to reduce cost in developing a software system. This model can solve more issues in the developmental stages by fixing issues in steps
+            rather than fixing issues at the end of the process.
+            It's easier and quicker to get feedback from a client at every stage and implement changes where necessary.
+            As a result of each increment a new reault/feature is obtained.
+            The initial delivery schedule is accelerated and the risk would be divided into smaller increments and not in to a large project.
+            There would be a greater understanding of increments at a later stage.
+
+3. Look at the diagram showing the reuse-oriented software engineering process above. Why do you think it is necessary to have two separate
+   requirements engineering steps in this process?
+   Answers: When new specifications are planned for the new project it is defined what the product is required to do. The component analysis looks at existing components
+            and how it can be intergrated into the specification requirements. The requirement modification looks at how the requirements cans be adjusted to fit with the
+            existing components. Then the system design with reuse is used to create a new frame work or adapt an existing one.
+            There when combining existing or new components the development intergration is vital to intergrate evrything to compliment the new software system.
+            Once this is done the system can be validated and be finalised for use.
+            Thats why it is important to have two seperate engineering steps for itegrating the existing with the new.
+
+            
+           
+           
+
+            
+            

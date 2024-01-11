@@ -1,0 +1,51 @@
+1. Do some research to find real-world examples of when each architecture pattern would be most appropriate to use. Write down your examples, and
+   state your reasons why each pattern would be most appropriate for each of the examples you found.
+   Answers: Layered architecture
+            Examples of the layered achitecture pattern would be the Enterprise Resource Planning.
+            This would be business applications that needs to be built rapidly. This can be divided up into four layers. The presentation layer consist of the user 
+            interface component that the user will interact with. Next is the business layer that consist of a component that focuses on user authentification
+            and authorisation. The persistence layer will focus on functional components and the database layer that focuses on databases.
+            
+            Respository Architecture
+            Example of the repository achitecture could be a Library Management System.
+            All data is stored in a central respository and all working components are seperated from each other but can interact with each other through the 
+            central respository.
+            It has a collection of components that operates on it to store, retrieve and update data.
+            The Library Management System will have a central respository that could store data about books, library users, transactions and various other data.
+            The bidirectional flow of data eases the moving of data to and from the central repository.
+
+            Client-Server Architecture
+            Examples of client-server architecture patterns could be the internet, email applications, network file sharing/printing and online gaming.
+            Can be described as a distributed application structure that consist of two main components, the client and the server. The client will access the 
+            network to use the system and will make request. The server will be the responder and will listen to the request of the client. 
+            Clients will inniate communication and cannot communicate directly with each other, the server relays messages for the client to communicate.
+            The application will require control access and focus on real time services such as telecommunication application with a built in distribution
+            structure.
+
+            Pipe and Filter Architecture
+            Examples of the pipe and filter architecture could be an image processing application, data processing application, audio processing application or
+            a network security system. This is a system that is divided into a set of processing elements, known as filters that is connected by pipes or channels.
+            each filter has a specific duty and allows data to flow through the filter function via the pipes.
+            This is system will be appropriate for data processing applications.
+            
+2. Give two examples of systems combining two or more patterns, and explain how these patterns complement each other.
+   Answers: 1. A Healthcare Data System.
+               This system could combined the layered architecture and the repository architecture pattern. The layered architecture can divide the this system up into
+               seperate layers making it more maintainable and the respository pattern adds further seperation by isolating data access logic.
+               These combined architectures offers flexibility, replacing or modifying components without affecting the whole application.
+               
+
+            2. A Multimedia Processing Application
+               This application could integrate the client-server pattern and the pipe and filter pattern.
+               This Multimedia Processing Application could see users or application requesting complex processing task on multimedia files.
+               Clients could make request to a central server for multimedia processing task. The server will act as a central controller such as recieving request,managing
+               resources and deploying processing task.
+               The multimedia processing task are then broken up down into a series of processing steps that is represented as a filter. Data flows through pipesline that could
+               filter images, alter video and audio data. 
+               By combining the two patterns, a system is created that could process complex task effeciently.
+
+            
+            
+            
+            
+            

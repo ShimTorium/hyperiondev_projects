@@ -1,0 +1,66 @@
+1. Briefly describe possible quality standards that might be used for these real-world products.
+   Answers: Mobile game app.
+            To create a mobile game app that has functional standards and ensure the the app working correctly. This must entail
+            that all functions work when user inputs all commands e.g starting the game/quitting the game, changing settings etc.
+            The mobile game app needs to perform optimally without failure. 
+            It needs to be operator system friendly and be able to work on android/ios and be user friendly.
+
+            Banking application.
+            With the sensitivity of users finances being exposed online, the application will have be safe and secure.
+            Users private data needs to be protected from internal and external threats. Financial transactions need to be secure
+            from external threats. Making and recieving payments must be secure.
+            Users interaction with the application needs to be easily accessible, be user friendly for all and perform optimally
+            for the fastest, secure user experience. The application needs to have a good design that encapsulates all services 
+            provided to the user with ease. The users data needs to be up to date, including all personal and financial data.
+
+            Database for medical organisation.
+            Patient data privacy needs to be secure and confidential. Therefore the database needs to be robust and not easily accessible
+            to non-authorised users. Only authorised users should be able to share a medical record of a patient for medical referrals
+            or if the patient moves from the the current medical organisation to another.
+            Patients medical conditions and data changes all the time, therefore it is important to back up the databases. This new data 
+            can help medical practioners administer medical protocals for patients.
+            The database can help administrate the operation at the orgnisation as well such as implementing a medical staff roster, this ensures
+            that medical staff is always on site and when they can be relieved and who will relieve them. Directing task for non-medical staff, such
+            as general maintenance and supplies etc. Therefore a database will help the medical organsisation operate optimally.
+            
+2. Explain why a high-quality software process should lead to high-quality software products. Discuss possible problems with this system 
+   of quality management.
+   Answers: High quality software processes are a crucial part of the development of high quality software products. This process guides developers
+            first through a planning stage where the requirments for the product is analysed. The specification requirments are then listed and defined.
+            Then the product achitecture will be designed based on the requirements for the product. The product will then be built and the code can be
+            generated. The product can be tested and issue can be fixed through early detection.
+
+            Possible problems could be to much thought is put into the process of the quality control, with this issue comes a lack of flexibilty.
+            Issues can creep in  and be missed or fixed only at the end of the development process, because of the rigidity.
+            To many documantion could also affect the quality management process by negatively affecting the functionality of this system.
+            A lack of communication can be detrimental to this process if there is a breakdown of communication between the quality control management 
+            and developers and with the client. This can result is extended project deadlines and expensive corrections.
+            A unmotivated team could also result in many negative aspects of the quality control of the project, thus making them loose focut on the 
+            clients requirements.
+
+3. Explain why program inspections are an effective technique for discovering errors in a program. What types of errors are unlikely to be discovered 
+   through inspections?
+   Answers: Program inspections are an effective way of observing if the software is working effectively and meeting requirements. Defects that are found 
+            can be correct to have a good working software system. When early fault detection occurs, it gives the developers ample time to make the necessary 
+            changes rather than fixing errors at the end of the product. This data can be presented to the client for greater product user perspective and client 
+            input and collaboration can occur. 
+
+            Requirement and specification errors can be discovered through inspection, not enough specification for the project that can listed. This could lead 
+            to a lack of requirments and an ineffective program. There could also be a emphasis on over documentation and to many requirements listed and making the 
+            program not functional and user friendly.
+            Bugs can be discovered in the code of the program making it not functional and not getting the desired output, such as syntax, logical and runtime errors.
+            The programs could have security errors making it compromised and not safe to use.
+            There could be error in the design making it not user friendly and could result in performance issues making the program not perform optimally.
+
+4. Why is it difficult to validate the relationships between internal product attributes and external attributes?
+   Answers: It can be diffcult to validate relationship because of the developers or users personal experience with the product. This can be subjective and vary from
+            person. What a user finds valuable in a product at one particular time may change over time, thus changing expectation on how the program should behave.
+            The program also needs to have a user friendly model that accomodate all types of users. This can be difficult to accomdate all type of user from beginners
+            novice with certain user expection.
+            How the user views the product can be difficult as this may not be an accurate reading of how the user experiance can be measured. The user true perception 
+            of the program may not be taken into account.
+            Program developers may not also full take into account internal and external quality attributes. Clients/users may have certain perceptions of the product
+            that not yet be understood by developers on what the product should be and how they want the product outsput to respond.
+            
+            
+            

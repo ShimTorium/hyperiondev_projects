@@ -1,0 +1,8 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+bill, Services, Service all operating tools and machinery. Clean, sharpen and oil tools and machinery., 2023-09-04, 2023-09-15, No
+will, Purchases, Purchase all operating inventory including spares, fuels and lubricants., 2023-09-04, 2023-09-15, No
+sam, administration, General administration, supply chain management and procurement, that includes  checking supplier database daily for new RFQs, ensure company is SARS and database compliant., 2023-09-11, 2023-09-01, Yes
+paul, Supervision, Supervise staff on project site facilities. Ensure project initiation and completion. Ensure all saftey and risk management of projects and staff is adhered to. , 2023-09-18, 2023-09-19, No
+paul, Quality Control, Ensure all job specification are met, 2023-09-19, 2023-09-20, No
+
